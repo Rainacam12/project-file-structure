@@ -1,0 +1,1 @@
+Calculator directory is comprised of four files that each pertain to the four major math operators: addition, subtraction, mulitplication, and division. we are importing these modules into our tests from our Calculatory directory
